@@ -1,6 +1,6 @@
 # Earning bitcoin
 # Waves
-# ethereum
+# Ethereum
 # cosmos
 # supernatural
 # AT technology
