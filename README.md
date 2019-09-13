@@ -1,4 +1,4 @@
-# bitcoin
+# Earning bitcoin
 # waves
 # ethereum
 # cosmos
