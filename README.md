@@ -1,3 +1,4 @@
 # bitcoin
 # waves
 # ethereum
+# cosmos
