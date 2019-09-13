@@ -1,5 +1,5 @@
 # Earning bitcoin
-# waves
+# Waves
 # ethereum
 # cosmos
 # supernatural
