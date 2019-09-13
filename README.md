@@ -1,7 +1,7 @@
 # Earning bitcoin
 # Waves
 # Ethereum
-# cosmos
+# Life on other planets
 # Supernatural
 # AT technology
 # Humanity and space
