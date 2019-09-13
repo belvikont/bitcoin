@@ -2,7 +2,7 @@
 # Waves
 # Ethereum
 # cosmos
-# supernatural
+# Supernatural
 # AT technology
 # Humanity and space
 # Blockchain platform
